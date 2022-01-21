@@ -5,7 +5,7 @@ class HelloWorld < Formula
 
   on_macos do
     url "https://github.com/rymach/hello-world/archive/refs/tags/v9.0.0.zip"
-    sha256 "7bb080e2bd3928ae0cd275baede6e1fcc4a1e8252d15598254cda609cb0095f3"
+    sha256 "3236dbb6784e5f51c1209d519b522096a1432faa27c0286fc2a818ae23368cb8"
   end
 #   on_linux do
 #     url "https://github.com/int128/kubelogin/releases/download/v1.24.0/kubelogin_linux_amd64.zip"
