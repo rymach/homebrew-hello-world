@@ -1,11 +1,11 @@
 class HelloWorld < Formula
   desc "desc"
   homepage "https://github.com/rymach/helloworld"
-  version "v9.0.0"
+#   version "v9.0.0"
 
   on_macos do
-    url "https://github.com/rymach/hello-world/archive/refs/tags/v9.0.1.zip"
-    sha256 "79a3d81ef022f1d255d20a66825920989be52ff29ef0596110ddbd163aca7d0f"
+    url "https://github.com/rymach/hello-world/archive/refs/tags/v9.0.2.zip"
+    sha256 "eec3ecc326f8d569f247963322a760d1281b2a2bb70d3943c796a913c43fe1d6"
   end
 #   on_linux do
 #     url "https://github.com/int128/kubelogin/releases/download/v1.24.0/kubelogin_linux_amd64.zip"
